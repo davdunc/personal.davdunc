@@ -1,20 +1,28 @@
 # See https://docs.ansible.com/ansible/latest/dev_guide/collections_galaxy_meta.html
 
-namespace: community
+namespace: davdunc
 name: personal.davdunc
-version: 0.1.0
+version: 0.1.1
 readme: README.md
 authors:
-  - DAVID DUNCAN (github.com/davdunc)
-description: null
+  - davdunc
+description: A collection of automation tools for davdunc's personal preferences
 license_file: LICENSE
+
 tags:
   - personal
   - non-production
+
+dependencies:
+  community.general: ">=3.0.0"
+
 repository: https://github.com/davdunc/personal.davdunc
-#documentation: https://github.com/ansible-collection-migration/community.REPO_NAME/tree/main/docs
+
+documentation: https://github.com/davdunc/davdunc.personal.davdunc/tree/main/docs
 homepage: https://github.com/davdunc/personal.davdunc
+
 issues: https://github.com/davdunc/personal.davdunc/issues
+
 build_ignore:
   - .gitignore
   - changelogs/.plugin-cache.yaml
