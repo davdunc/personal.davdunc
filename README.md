@@ -1,9 +1,6 @@
-# collection_template
-You can build a new repository for an Ansible Collection using this template by following [Creating a repository from a template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template). This README.md contains recommended headings for your collection README.md, with comments describing what each section should contain. Once you have created your collection repository, delete this paragraph and the title above it from your README.md.
-
-# Foo Collection for Ansible
+# David Duncan's Personal Collection for Ansible
 <!-- Add CI and code coverage badges here. Samples included below. -->
-[![CI](https://github.com/ansible-collections/REPONAMEHERE/workflows/CI/badge.svg?event=push)](https://github.com/ansible-collections/REPONAMEHERE/actions) [![Codecov](https://img.shields.io/codecov/c/github/ansible-collections/REPONAMEHERE)](https://codecov.io/gh/ansible-collections/REPONAMEHERE)
+[![CI](https://github.com/davdunc/personal.davdunc/workflows/CI/badge.svg?event=push)](https://github.com/davdunc/personal.davdunc/actions) [![Codecov](https://img.shields.io/codecov/c/github/davdunc/personal.davdunc)](https://codecov.io/gh/davdunc/personal.davdunc)
 
 <!-- Describe the collection and why a user would want to use it. What does the collection do? -->
 
@@ -107,7 +104,7 @@ See [Ansible Using collections](https://docs.ansible.com/ansible/devel/user_guid
 
 ## Release notes
 
-See the [changelog](https://github.com/ansible-collections/REPONAMEHERE/tree/main/CHANGELOG.rst).
+See the [changelog](https://github.com/davdunc/personal.davdunc/tree/main/CHANGELOG.rst).
 
 ## Roadmap
 
